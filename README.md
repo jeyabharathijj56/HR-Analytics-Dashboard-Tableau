@@ -1,80 +1,79 @@
-HR Data Analytics Dashboard using Tableau
+# 👥 HR Data Analytics using Tableau
 
-Project Overview
+## 📌 Project Overview
 
-This project focuses on analyzing Human Resources (HR) data using Tableau. The dashboard provides insights into employee attrition, demographics, job satisfaction, overtime, salary distribution, and employee tenure.
+This project focuses on analyzing employee data and workforce performance using Tableau. It provides interactive dashboards to understand employee demographics, attrition trends, salary distribution, job satisfaction, and workforce insights.
 
-The main objective is to understand employee attrition patterns and help HR teams make better data-driven decisions.
+## 🎯 Project Objectives
 
-Dashboard KPIs
+- Analyze employee information and workforce distribution.
+- Understand employee attrition patterns.
+- Analyze employee demographics by age and gender.
+- Monitor salary distribution and job levels.
+- Identify factors influencing employee attrition.
+- Generate meaningful HR insights for better decision-making.
 
-Total Attrition: 237
+## 📊 Dashboards Created
 
-Attrition Rate: 16.12%
+### 1. HR Overview Dashboard
 
-Average Tenure: 7.0 Years
+- Total Employees
+- Attrition Rate
+- Average Tenure
+- New Hires
+- Average Age
+- Department-wise Attrition
+- Employee Distribution by Age
+- Gender Distribution
+- Employees by Job Role
+- Employee Distribution by Education Field
+- Business Travel Analysis
 
-New Hires: 1,233
+### 2. Attrition Analysis Dashboard
 
-Overtime Attrition: 127
+- Total Attrition
+- Attrition Rate
+- Average Tenure
+- New Hires
+- Overtime Attrition
+- Attrition by Age and Gender
+- Attrition by Job Satisfaction
+- Attrition by Years at Company
+- Attrition by Overtime
+- Monthly Income Distribution by Attrition
 
-Dashboard Analysis
+### 3. Employee Details Dashboard
 
-1. Attrition by Age and Gender
+- Total Employees
+- Average Age
+- Average Monthly Salary
+- Salary Distribution
+- Work-Life Balance Heatmap
+- Promotion Gap Analysis
+- Employees by Job Level
+- Marital Status Distribution
 
-Analyzed employee attrition across different age groups and gender categories.
+## 🛠️ Tools & Technologies
 
-2. Attrition by Job Satisfaction
+- Tableau
+- Data Visualization
+- Calculated Fields
+- Interactive Filters
+- Dashboard Design
+- HR Data Analysis
 
-Visualized employee count based on job satisfaction ratings and attrition status.
+## 💡 Key Learnings
 
-3. Monthly Income Distribution by Attrition
+- Analyzing employee data using Tableau.
+- Creating interactive dashboards and visualizations.
+- Understanding employee attrition trends.
+- Analyzing salary and workforce distribution.
+- Identifying HR patterns through data visualization.
+- Generating meaningful business insights.
 
-Compared monthly income distribution between employees who stayed and employees who left.
+ Dashboard Screenshots:
 
-4. Attrition by Years at Company
-
-Analyzed employee attrition based on years of service in the organization.
-
-5. Attrition by Overtime
-
-Compared employee attrition based on overtime status.
-
-Interactive Filters
-
-Gender
-
-Age Group
-
-Over Time
-
-Job Satisfaction
-
-Tools & Technologies
-
-Tableau
-
-Microsoft Excel
-
-Data Visualization
-
-Data Analytics
-
-Key Insights
-
-The overall attrition rate is 16.12%.
-
-A total of 237 employees are shown under attrition.
-
-Average employee tenure is 7 years.
-
-The dashboard highlights attrition patterns across age groups and gender.
-
-Overtime and job satisfaction are included for workforce analysis.
-
-Dashboard Preview
-
-1. Overview
+ 1. Overview
 ![HR Data Analytics Dashboard - Overview](images/overview.png)
 
 2. Attrition Analysis
@@ -83,6 +82,6 @@ Dashboard Preview
 Employee Details
 ![HR Data Analytics Dashboard - Employee Details](images/employee-details.png)
 
-Conclusion
+## 🚀 Conclusion
 
-This HR Analytics Dashboard helps understand employee attrition patterns, workforce distribution, salary trends, and employee satisfaction through interactive visualizations. It supports HR teams in identifying workforce trends and making informed decisions.
+This project helped me strengthen my Tableau skills and gain practical experience in HR data analysis, employee attrition analysis, and interactive dashboard development.
